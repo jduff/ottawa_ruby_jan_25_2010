@@ -5,7 +5,7 @@
 * Chronic (github.com/evaryont/chronic)
 
 !SLIDE ruby
-# Usage #
+# Usage of Herbalist #
     
     @@@ ruby
     require 'herbalist'
